@@ -1,1 +1,1 @@
-# Chechmarx
+# Checkmarx
